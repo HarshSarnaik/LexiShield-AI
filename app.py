@@ -46,7 +46,7 @@ if uploaded_file is not None:
 
         st.success("PDF successfully uploaded. You can now use below features")
 
-        st.text_area("Legal document:", extracted_text, height= 150)
+        st.text_area("Legal document:", extracted_text, height= 500)
 
     except Exception as e:
         st.error(f"Error processing PDF file: {e}")
