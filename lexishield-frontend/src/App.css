@@ -1,4 +1,3 @@
-/* --- Light Theme Variables (Default) --- */
 body.light {
   --primary-color: #4a90e2;
   --primary-hover: #357ABD;
@@ -15,7 +14,6 @@ body.light {
   --box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
-/* --- Dark Theme Variable Overrides --- */
 body.dark {
   --primary-color: #4a90e2;
   --primary-hover: #5a9ee6;
@@ -296,7 +294,6 @@ input[type="file"] {
   100% { transform: rotate(360deg); }
 }
 
-/* --- NEW: Info Button and Modal Styles --- */
 
 .info-button {
   position: fixed;
