@@ -8,11 +8,10 @@ import uuid
 
 # Initialize Flask App
 app = Flask(__name__)
-CORS(app)
+CORS(app, origins="https://lexishield.netlify.app/")
 
 # --- Configuration ---
 # The server will use a local folder for temporary file storage.
-# On platforms like Render, this is a private, ephemeral filesystem.
 UPLOAD_FOLDER = 'temp_uploads'
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 
