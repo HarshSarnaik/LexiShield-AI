@@ -27,7 +27,7 @@ const InfoModal = ({ onClose }) => {
         <p>
           This prototype was built by the **Generative Gray Hats** for the GenAI Exchange Hackathon 2025.
         </p>
-        [cite_start]<p><strong>Team Leader:</strong> Harsh Sharadrao Sarnaik </p>
+        <p><strong>Team Leader:</strong> Harsh Sharadrao Sarnaik </p>
         <p><strong>Version:</strong> 1.0.0 (Hackathon Prototype)</p>
       </div>
     </div>
