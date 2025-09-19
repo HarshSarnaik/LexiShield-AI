@@ -8,7 +8,7 @@ import uuid
 
 # Initialize Flask App
 app = Flask(__name__)
-CORS(app, origins="https://lexishield.netlify.app/")
+CORS(app, origins="https://lexishield.netlify.app")
 
 # --- Configuration ---
 # The server will use a local folder for temporary file storage.
