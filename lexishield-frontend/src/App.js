@@ -2,10 +2,8 @@ import React, { useState, useCallback, useEffect } from 'react';
 import axios from 'axios';
 import './App.css';
 
-// --- Configuration ---
 const BACKEND_URL = 'http://localhost:5000';
 
-// --- NEW: Info Modal Component ---
 const InfoModal = ({ onClose }) => {
   return (
     <div className="modal-overlay" onClick={onClose}>
@@ -37,9 +35,7 @@ const InfoModal = ({ onClose }) => {
 };
 
 
-// --- Main App Component ---
 function App() {
-  // ... (all existing states are here)
   const [file, setFile] = useState(null);
   const [documentText, setDocumentText] = useState('');
   const [analysisResult, setAnalysisResult] = useState('');
@@ -50,10 +46,8 @@ function App() {
   const [userQuestion, setUserQuestion] = useState('');
   const [theme, setTheme] = useState('light');
 
-  // --- NEW: State for info modal ---
   const [isInfoModalOpen, setInfoModalOpen] = useState(false);
 
-  // ... (all existing functions are here)
   const toggleTheme = () => {
     setTheme((prevTheme) => (prevTheme === 'light' ? 'dark' : 'light'));
   };
