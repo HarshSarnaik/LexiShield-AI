@@ -13,7 +13,7 @@
 
 ---
 
-![LexiShield AI Screenshot](https://i.imgur.com/your-screenshot-url.png)
+![LexiShield AI Screenshot](https://photos.app.goo.gl/3vZb181UQ1iqMKR9A)(https://photos.app.goo.gl/tHARCcq6k4Bw3xcX7)
 *A preview of the LexiShield AI interface.*
 *(Recommendation: Replace the link above with a screenshot of your running application!)*
 
