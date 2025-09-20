@@ -11,6 +11,13 @@
 ### ✨ **[View the Live Demo Here](https://lexishield.netlify.app/)** ✨
 
 
+---
+
+![LexiShield AI Screenshot](https://i.imgur.com/your-screenshot-url.png)
+*A preview of the LexiShield AI interface.*
+*(Recommendation: Replace the link above with a screenshot of your running application!)*
+
+
 
 ## About The Project
 
