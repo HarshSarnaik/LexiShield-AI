@@ -11,11 +11,10 @@
 ### ✨ **[View the Live Demo Here](https://lexishield.netlify.app/)** ✨
 
 
----
+![WhatsApp Image 2025-09-20 at 10 48 13_e94309cb](https://github.com/user-attachments/assets/af51ce85-a091-48cb-b8b9-d8bf97f80cdf)
+![WhatsApp Image 2025-09-20 at 10 49 01_9b657e78](https://github.com/user-attachments/assets/429d80c6-2f1c-47ae-b616-9a58059110e7)
 
-![LexiShield AI Screenshot](https://photos.app.goo.gl/3vZb181UQ1iqMKR9A)(https://photos.app.goo.gl/tHARCcq6k4Bw3xcX7)
-*A preview of the LexiShield AI interface.*
-*(Recommendation: Replace the link above with a screenshot of your running application!)*
+
 
 
 
