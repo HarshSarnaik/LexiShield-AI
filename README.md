@@ -117,4 +117,12 @@ You will need to have **Node.js (v14+)** and **Python (v3.8+)** installed on you
 Harsh Sharadrao Sarnaik - [GitHub Profile](https://github.com/HarshSarnaik)
 
 Project Link: [https://github.com/HarshSarnaik/LexiShield-AI](https://github.com/HarshSarnaik/LexiShield-AI)
+
+## Development team
+
+* This prototype was built by the **Generative Gray Hats** for the GenAI Exchange Hackathon 2025.
+
+* **Team Leader:** Harsh Sharadrao Sarnaik
+* **Version:** 1.0.0 (Hackathon Prototype)
+
 ```eof
